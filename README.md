@@ -1,0 +1,29 @@
+# Codetopia Community Howtos
+
+A collection of guides to help you navigate and get the most out of the
+Codetopia Community, whether you just joined or you're ready to contribute
+to our projects.
+
+## How this started
+
+This project was initiated by the **June–July 2026 intern cohort**, a group
+of passionate individuals who showed up, put in the work, and decided to
+make things better for every member who comes after them.
+This is their gift to the Codetopia Community. 🫶
+
+- [Rosemary Boahemaa Dwamena](https://portal.community.codetopia.org/@rosieee)
+- [Raymond Selorm Tormeti](https://portal.community.codetopia.org/@raymond_notch)
+- [Ramzy Gbati Konde](https://portal.community.codetopia.org/@ramzyq)
+
+## You're seeing this because...
+
+You're part of something real. A community of builders figuring it out
+together. These guides exist so you spend less time confused and more
+time building. Welcome. 🚀
+
+## Contributing to this repo
+
+Found something outdated or missing? Open an issue or submit a PR.
+See [how to contribute](./contributing/01-how-to-contribute.mdx).
+
+> Codetopia Community · [codetopia.org](https://codetopia.org)
